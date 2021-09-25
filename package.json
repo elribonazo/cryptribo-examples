@@ -1,0 +1,19 @@
+{
+  "name": "cryptribo",
+  "version": "1.0.",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cardano-crypto.js": "^6.0.0",
+    "crypto": "^1.0.1",
+    "cryptribo": "^0.1.3"
+  },
+  "devDependencies": {
+    "cbor": "^8.0.0"
+  }
+}
